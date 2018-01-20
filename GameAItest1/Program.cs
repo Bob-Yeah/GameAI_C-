@@ -8,6 +8,7 @@ namespace GameAItest1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("test add something");
+            Console.WriteLine("test add something2");
         }
     }
 }
