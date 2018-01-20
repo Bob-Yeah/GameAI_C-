@@ -1,0 +1,10 @@
+/home/bobyeah/Project/GameAI_CS/GameAItest1/bin/Debug/netcoreapp2.0/GameAItest1.deps.json
+/home/bobyeah/Project/GameAI_CS/GameAItest1/bin/Debug/netcoreapp2.0/GameAItest1.runtimeconfig.json
+/home/bobyeah/Project/GameAI_CS/GameAItest1/bin/Debug/netcoreapp2.0/GameAItest1.runtimeconfig.dev.json
+/home/bobyeah/Project/GameAI_CS/GameAItest1/bin/Debug/netcoreapp2.0/GameAItest1.dll
+/home/bobyeah/Project/GameAI_CS/GameAItest1/bin/Debug/netcoreapp2.0/GameAItest1.pdb
+/home/bobyeah/Project/GameAI_CS/GameAItest1/obj/Debug/netcoreapp2.0/GameAItest1.csproj.CoreCompileInputs.cache
+/home/bobyeah/Project/GameAI_CS/GameAItest1/obj/Debug/netcoreapp2.0/GameAItest1.AssemblyInfoInputs.cache
+/home/bobyeah/Project/GameAI_CS/GameAItest1/obj/Debug/netcoreapp2.0/GameAItest1.AssemblyInfo.cs
+/home/bobyeah/Project/GameAI_CS/GameAItest1/obj/Debug/netcoreapp2.0/GameAItest1.dll
+/home/bobyeah/Project/GameAI_CS/GameAItest1/obj/Debug/netcoreapp2.0/GameAItest1.pdb
